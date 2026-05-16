@@ -1,0 +1,11 @@
+spring-boot
+java
+react
+mysql
+jwt
+websocket
+inventory-management
+rest-api
+vite
+fullstack
+marketmanager

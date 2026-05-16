@@ -1,0 +1,1 @@
+MarketManager — sistema full stack de gestão de estoque para supermercados. API REST Spring Boot (Java 17) + MySQL + JWT; dashboard React com inventário, movimentações e monitor em tempo real (WebSocket).

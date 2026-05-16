@@ -1,0 +1,1 @@
+MarketManager — full-stack supermarket inventory system. Spring Boot REST API (Java 17) + MySQL + JWT; React dashboard with stock management, movements, and real-time monitoring (WebSocket).
